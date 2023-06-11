@@ -1,2 +1,2 @@
 # OasisInfoByteProjects
-This Repository is about my Internship Tasks Alloted by OasisInfoByte
+This repository contains my Internship Tasks Alloted to me by OasisInfoByte
